@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a6f58c-72d2-491b-a6c1-2f49e5e90c53" name="Changes" comment="Entrada de dados e execução da função converterUnidade">
+    <list default="true" id="f7a6f58c-72d2-491b-a6c1-2f49e5e90c53" name="Changes" comment="Execução da função converterMassa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PYTHON_Conversor_Unidades.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_Conversor_Unidades.py" afterDir="false" />
     </list>
@@ -85,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1738001731176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Execução da função converterMassa">
+      <option name="closed" value="true" />
+      <created>1738003951217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738003951217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Inicial" />
     <MESSAGE value="Entrada de dados e execução da função converterUnidade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entrada de dados e execução da função converterUnidade" />
+    <MESSAGE value="Execução da função converterMassa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Execução da função converterMassa" />
   </component>
 </project>
